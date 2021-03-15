@@ -1,3 +1,9 @@
 body {
-color:red;
+font-size: larger;
+}
+p{
+    font-weight: bold;
+}
+h1{
+    color: blueviolet;
 }
